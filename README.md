@@ -217,4 +217,5 @@ If you want, I can:
 Tell me which of the above you'd like next and I will update the README or add files accordingly.
 
 ## Deployment 
-eco-barter.vercel.app
+https://vercel.com/ajokes-projects-9fdf3b7e/eco-barter/2tUALBeTvvvk8EUCmJ5LPVujSnp4
+
